@@ -1,4 +1,4 @@
-# Image-Generator-withDALL-E (Anas Grid)
+# Image-Generator-with DALL-E (Anas Grid)
 
 The AI Image Generator using DALL-E is a web application that enables users to generate unique, high-quality images based on descriptive text prompts. Leveraging OpenAI's DALL-E model, this application is designed to make it easy for users to bring their imaginative ideas to life as digital images with just a few words. Below is a detailed breakdown of its functionality, architecture, and user experience.
 
